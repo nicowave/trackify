@@ -1,0 +1,26 @@
+{
+  "name": "trackify",
+  "version": "1.0.0",
+  "description": "exercise to understand migrations with Knex and SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "knex": "knex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "knex",
+    "trackify"
+  ],
+  "author": "nicolas roldos",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.12.9",
+    "pg": "^6.1.5"
+  }
+}
